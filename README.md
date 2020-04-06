@@ -12,11 +12,8 @@ A simple package to add arrows and dashes
 
 | Symbol | Shortcut |
 |--------|----------|
-| —     | `\--`    |
-| —     | `\mdash` |
-| —     | `\emdash`    |
-| –     | `\ndash` |
-| –     | `\endash`    |
+| —     | `\--`, `\mdash`, or `\emdash`    |
+| –     | `\ndash` or `\endash`    |
 | <200b> (zero-width space)    | `\zwsp`  |
 | •     | `\bul`   |
 | ✓    | `\check` |
