@@ -7,7 +7,7 @@ package_author: "Jordan Matelsky"
 package_repo: "https://github.com/j6k4m8/espanso-arrows"
 ---
 
-A simple package to add arrows and dashes
+A simple package to add arrows and dashes to [espanso](https://espanso.org/)
 
 
 | Symbol | Shortcut |
